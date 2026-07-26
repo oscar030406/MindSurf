@@ -59,6 +59,11 @@ coverage.xml
 !/models/.gitkeep
 /artifacts/
 /release/
+
+# Says on its own first line that it is local and must never be committed.
+# Untracked is not protected: this makes the file's own rule something git
+# enforces rather than something a hurried stage forgets.
+/THREAD_HANDOFF.md
 /outputs/
 /data/*
 !/data/.gitkeep

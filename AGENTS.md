@@ -2,7 +2,9 @@
 
 ## Mandatory Project Contract
 
-Before taking action in a new task, read `PROJECT_RULES.md` in full. Before
+Before taking action in a new task, read `PROJECT_RULES.md` and
+`PRETRAIN_INFRA_COMPLETION_CHECKLIST.md` in full -- the first defines how to
+work here, the second defines what done means and in what order. Before
 staging, committing, pushing, opening or merging a pull request, publishing an
 artifact, or changing a server, read the relevant sections again and complete
 the final checklist. `PROJECT_RULES.md` defines the branch boundary, public
